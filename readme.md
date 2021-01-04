@@ -9,7 +9,7 @@
 
 ## Visual Studio Code 安装
 
-1. 官网下载地址：https://code.visualstudio.com。[或点击跳转官网下载](https://code.visualstudio.com)
+1. 官网下载地址：[https://code.visualstudio.com](https://code.visualstudio.com)
 2. 可以根据自己使用的环境下载对应的版本，Stable稳定版，Insiders内测版；
 3. 记住vs code核心快捷键：`ctrl+shift+p`（打开命令面板）。你可以试一下效果，用vs code打开本文件，然后使用快捷键`ctrl+shift+p`，在弹出的命令面板中输入`markdown`，注意不要按Enter键，vs code 会自动搜索出相关的命令，在提示的命令中找到`markdown: Open Preview to the Side`。查看vs code 内建的markdown预览效果。
 
